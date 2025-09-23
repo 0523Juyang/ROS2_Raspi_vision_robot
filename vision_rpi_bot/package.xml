@@ -3,7 +3,7 @@
 <package format="3">
   <name>vision_rpi_bot</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>using raspi and ros2 to implement intelligent control</description>
   <maintainer email="ros@todo.todo">ros</maintainer>
   <license>TODO: License declaration</license>
 
