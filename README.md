@@ -8,4 +8,4 @@ This repository is base on rasberry pi and use ROS2 system
 
 ### GPIO pins acess
 - sudo chown ubuntu /dev/gpiomem
-- sudo chnoe g=rw /dev/gpiomem
+- sudo chnoe g=rw /dev/gpiomem 
