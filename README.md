@@ -7,5 +7,5 @@ This repository is base on rasberry pi and use ROS2 system
 - Subscriber 
 
 ### GPIO pins acess
-sudo chown ubuntu /dev/gpiomem
-sudo chnoe g=rw /dev/gpiomem
+- sudo chown ubuntu /dev/gpiomem
+- sudo chnoe g=rw /dev/gpiomem
